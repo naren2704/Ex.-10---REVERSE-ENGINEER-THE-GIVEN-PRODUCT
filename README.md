@@ -37,8 +37,8 @@
 ![ex4 1](https://github.com/user-attachments/assets/2b5e35f0-d590-4099-86d3-80f97ca82ac6)
 
 
-### Name:Irfan H
-### Register Number:212224040122
+### Name:NARENDRAN
+### Register Number:212222240069
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
